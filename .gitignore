@@ -1,0 +1,16 @@
+# Archivos temporales de Flutter y Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Archivos de Android Studio
+.idea/
+*.iml
+
+# Configuración local de Android
+android/local.properties
+android/.gradle/
+android/key.properties
+*.jks
+*.keystore
